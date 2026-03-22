@@ -17,14 +17,14 @@
 const baseAudio = [
   {
     id: "a1",
-    person: "Marcel D.",
-    year: "1942",
-    place: "Toulouse",
-    theme: "Vie quotidienne",
-    tags: ["rationnement", "résistance"],
-    desc: "Enregistrement réalisé en 1987. Marcel évoque les files d'attente devant les boulangeries et la peur des contrôles.",
-    ytId: "JyMIWCjOS8U",    
-    duration: "4:12"
+    person: "Mme Dinh Van Chi",
+    year: "",
+    place: "",
+    theme: "Fille d'un résistant",
+    tags: ["résistance"],
+    desc: "Enregistrement réalisé le 15 Mai 2026.",
+    ytId: "nf6RZvzfUnY",    
+    duration: "17:19"
   },
 ];
 

@@ -617,7 +617,7 @@ function init() {
 
 // --- Données des vidéos ---
 const baseVideos = [
-  {
+  /*{
     id: "v1",
     person: "Marcel D.",
     year: "1942",
@@ -629,7 +629,7 @@ const baseVideos = [
     src: "JyMIWCjOS8U",           
     thumb: "https://i3.ytimg.com/vi/JyMIWCjOS8U/maxresdefault.jpg", 
     duration: "9:59"
-  },
+  },*/
 ];
 
 // creation de la pellicule

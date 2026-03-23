@@ -20,9 +20,9 @@ const baseAudio = [
     person: "Mme Dinh Van Chi",
     year: "",
     place: "",
-    theme: "Fille d'un résistant",
-    tags: ["résistance"],
-    desc: "Enregistrement réalisé le 15 Mai 2026.",
+    theme: "Fille d'un déporté résistant",
+    tags: ["résistance", "déportation"],
+    desc: "Enregistrement réalisé le 15 Mai 2026. Mme Dinh Van Chi nous raconte l'histoire de son père résistant qui fut déporté durant la 2nde Guerre Mondiale.",
     ytId: "nf6RZvzfUnY",    
     duration: "17:19"
   },

@@ -23,7 +23,7 @@ const baseAudio = [
     theme: "Fille d'un déporté résistant",
     tags: ["résistance", "déportation"],
     desc: "Enregistrement réalisé le 15 Mars 2026. Mme Dinh Van Chi nous raconte l'histoire de son père résistant qui fut déporté durant la 2nde Guerre Mondiale.",
-    ytId: "nf6RZvzfUnY",    
+    ytId: "hmtL0O7ng-I",    
     duration: "17:19"
   },
 ];
